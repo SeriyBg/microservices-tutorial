@@ -4,34 +4,34 @@
 spring:
   profiles: sentence
   application:
-    name: lab-4-sentence
+    name: microtutorial-eureka-client-sentence
 
 ---
 spring:
   profiles: subject
   application:
-    name: lab-4-subject
+    name: microtutorial-eureka-client-subject
 
 ---
 spring:
   profiles: verb
   application:
-    name: lab-4-verb
+    name: microtutorial-eureka-client-verb
 
 ---
 spring:
   profiles: article
   application:
-    name: lab-4-article
+    name: microtutorial-eureka-client-article
 
 ---
 spring:
   profiles: adjective
   application:
-    name: lab-4-adjective
+    name: microtutorial-eureka-client-adjective
 
 ---
 spring:
   profiles: noun
   application:
-    name: lab-4-noun
+    name: microtutorial-eureka-client-noun
